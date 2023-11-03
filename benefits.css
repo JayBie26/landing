@@ -1,0 +1,30 @@
+.benefits-container{
+  display:flex;
+  position:relative;
+  padding:10px;
+  background-color: #9d2235;
+  justify-content: center;
+}
+.benefits-wrap{
+  display: flex;
+  justify-content: center;
+  width:800px;
+}
+.benefits-column{
+  display: flex;
+  width:265px;
+  justify-content: center;
+  align-items: center;
+}
+.benefits-column p{
+  padding:10px;
+  color:white;
+  margin:0;
+}
+.benefits-img{
+  height:60px;
+}
+.benefits-points{
+  color:white;
+  text-align: center;
+}
